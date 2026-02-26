@@ -2,6 +2,9 @@
 
 OpenClaw skill wrapper for the local `codex-usage` CLI.
 
+## CLI tool repo
+- https://github.com/davidfindlay/codex-usage
+
 ## Purpose
 Returns concise Codex usage information by running:
 
